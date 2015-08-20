@@ -20,5 +20,5 @@ public void init() {
     g.setColor(Color.red);
     g.drawString("Mojahid", 20, 60 );    
   }
-}
+} 
     
